@@ -1,4 +1,4 @@
-#Tratamiento de una Shell Reversa
+##Tratamiento de una Shell Reversa
 
 ## 📌 ¿Qué es?
 Cuando obtienes acceso a una máquina mediante una **shell reversa**, normalmente la terminal es muy limitada:  
